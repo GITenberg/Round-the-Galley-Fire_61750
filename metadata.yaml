@@ -1,0 +1,34 @@
+_repo: Round-the-Galley-Fire_61750
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Russell, William Clark
+    alias: Russell, W. Clark (William Clark)
+    birthdate: 1844
+    deathdate: 1911
+    gutenberg_agent_id: '8948'
+    url: http://www.gutenberg.org/2009/agents/8948
+    wikipedia: https://en.wikipedia.org/wiki/William_Clark_Russell
+description: ''
+gutenberg_issued: '2020-04-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61750'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Sea stories, English'
+- !lcsh 'English fiction -- 19th century'
+- GITenberg
+tableOfContents: A dance at sea -- Going aloft -- A trick at the wheel -- The bailiff
+  at sea -- Off the horn -- A strange chase -- A salvage job -- A Channel incident
+  -- Loss of a smack's crew -- Fire at sea -- Sea-sickness -- A log extract -- In
+  an open boat -- Waiting for a ship -- Skippers' wives at sea -- Sea songs -- An
+  hour's row -- The pleasures of yachting -- A drunken ship -- A sailor's club --
+  The perils of humanity -- Smack apprentices -- Gravesend -- A chat with a fisherman
+  -- A fourpenny voyage -- Poor Jack -- On the Goodwins -- The Strangers' Home.
+title: Round the Galley Fire
+url: http://www.gutenberg.org/ebooks/61750
